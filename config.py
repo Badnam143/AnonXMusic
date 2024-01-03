@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/AnonymousX1025/AnonXMusic",
+    "https://github.com/Badnam143/AnonXMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -78,12 +78,12 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/51766b0898e80bb43dc3b.jpg"
+    "START_IMG_URL", "https://graph.org/file/e0906f1ca0a6cbf47ccf6.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/51766b0898e80bb43dc3b.jpg"
+    "PING_IMG_URL", "https://graph.org/file/e0906f1ca0a6cbf47ccf6.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/51766b0898e80bb43dc3b.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/e0906f1ca0a6cbf47ccf6.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/51766b0898e80bb43dc3b.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
